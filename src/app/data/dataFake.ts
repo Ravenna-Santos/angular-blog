@@ -1,0 +1,26 @@
+export const dataFake = [
+    {
+        "id":1,
+        "title": "NOVO HOMEM DE FERRO ANUNCIADO",
+        "description": "Marvel studios anuncia novo filme do homem de ferro, confira. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mauris quam, maximus porttitor ligula nec, lobortis aliquet tortor. Aenean ultrices mauris dui, nec tincidunt orci mollis eu. Etiam fermentum nisi ac magna tincidunt varius. Donec nec nunc enim. Fusce ut velit ligula. Etiam ac lacus eu tortor dignissim fermentum. Nam fermentum tellus at ultricies egestas. Phasellus nec volutpat nunc. Aliquam vel lectus nulla. Cras in molestie lorem. In sollicitudin malesuada tellus a pellentesque. Vestibulum nec interdum lectus. Vestibulum vel tincidunt tortor. Donec ullamcorper sagittis magna eget congue. Ut porta ante nec augue elementum placerat. Nullam non arcu ac mauris mattis porta. Sed nec maximus sem. Vivamus dignissim sapien ac accumsan fermentum. Etiam in neque dapibus, vestibulum odio vitae, mattis velit. Donec velit tortor, posuere id pellentesque non, tempus a purus. Vestibulum consequat purus semper vestibulum egestas. Sed tempus elit et felis suscipit fringilla.",
+        "photoCover":"https://conteudo.imguol.com.br/c/entretenimento/96/2020/08/07/iron-man-1596813808466_v2_900x506.jpg"
+    },
+    {
+        "id":2,
+        "title": "Nova série anunciada no Disney +",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mauris quam, maximus porttitor ligula nec, lobortis aliquet tortor. Aenean ultrices mauris dui, nec tincidunt orci mollis eu. Etiam fermentum nisi ac magna tincidunt varius. Donec nec nunc enim. Fusce ut velit ligula. Etiam ac lacus eu tortor dignissim fermentum. Nam fermentum tellus at ultricies egestas. Phasellus nec volutpat nunc. Aliquam vel lectus nulla. Cras in molestie lorem. In sollicitudin malesuada tellus a pellentesque. Vestibulum nec interdum lectus. Vestibulum vel tincidunt tortor. Donec ullamcorper sagittis magna eget congue. Ut porta ante nec augue elementum placerat. Nullam non arcu ac mauris mattis porta. Sed nec maximus sem. Vivamus dignissim sapien ac accumsan fermentum. Etiam in neque dapibus, vestibulum odio vitae, mattis velit. Donec velit tortor, posuere id pellentesque non, tempus a purus. Vestibulum consequat purus semper vestibulum egestas. Sed tempus elit et felis suscipit fringilla.",
+        "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+    },
+    {
+        "id":3,
+        "title": "Nova série do pantera negra lançado em breve",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mauris quam, maximus porttitor ligula nec, lobortis aliquet tortor. Aenean ultrices mauris dui, nec tincidunt orci mollis eu. Etiam fermentum nisi ac magna tincidunt varius. Donec nec nunc enim. Fusce ut velit ligula. Etiam ac lacus eu tortor dignissim fermentum. Nam fermentum tellus at ultricies egestas. Phasellus nec volutpat nunc. Aliquam vel lectus nulla. Cras in molestie lorem. In sollicitudin malesuada tellus a pellentesque. Vestibulum nec interdum lectus. Vestibulum vel tincidunt tortor. Donec ullamcorper sagittis magna eget congue. Ut porta ante nec augue elementum placerat. Nullam non arcu ac mauris mattis porta. Sed nec maximus sem. Vivamus dignissim sapien ac accumsan fermentum. Etiam in neque dapibus, vestibulum odio vitae, mattis velit. Donec velit tortor, posuere id pellentesque non, tempus a purus. Vestibulum consequat purus semper vestibulum egestas. Sed tempus elit et felis suscipit fringilla.",
+        "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F6482D58C8BB4D899FA4682BF27652C3E1BB73F5971E5F963994112F26A73690/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    },
+    {
+        "id":4,
+        "title": "Novo filme dos X-men está em pós produção, afirma diretor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mauris quam, maximus porttitor ligula nec, lobortis aliquet tortor. Aenean ultrices mauris dui, nec tincidunt orci mollis eu. Etiam fermentum nisi ac magna tincidunt varius. Donec nec nunc enim. Fusce ut velit ligula. Etiam ac lacus eu tortor dignissim fermentum. Nam fermentum tellus at ultricies egestas. Phasellus nec volutpat nunc. Aliquam vel lectus nulla. Cras in molestie lorem. In sollicitudin malesuada tellus a pellentesque. Vestibulum nec interdum lectus. Vestibulum vel tincidunt tortor. Donec ullamcorper sagittis magna eget congue. Ut porta ante nec augue elementum placerat. Nullam non arcu ac mauris mattis porta. Sed nec maximus sem. Vivamus dignissim sapien ac accumsan fermentum. Etiam in neque dapibus, vestibulum odio vitae, mattis velit. Donec velit tortor, posuere id pellentesque non, tempus a purus. Vestibulum consequat purus semper vestibulum egestas. Sed tempus elit et felis suscipit fringilla.",
+        "photoCover":"https://t.ctcdn.com.br/ntAuzNV9hE2AZqLDUjO7pFCY5j0=/1244x700/smart/i395747.jpeg"
+    }
+]
